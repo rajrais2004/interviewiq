@@ -198,8 +198,7 @@ npm run dev
 
 # 📈 Future Improvements
 
-- Voice-based answer input
-- More interview modes (HR, Case Study, System Design)
+- More interview modes (Case Study, System Design)
 - Leaderboard and peer comparison
 - Email report delivery
 - Resume improvement suggestions via AI
